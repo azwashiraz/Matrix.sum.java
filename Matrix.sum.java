@@ -42,8 +42,6 @@ public class MatrixSum {
 
             System.out.println(d1);
             System.out.println(d2);
-        }
-
-        input.close();
+    
     }
 }
